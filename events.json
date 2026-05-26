@@ -1,20 +1,192 @@
 [
-  { "id":101, "date":"2025-08-03", "title":"Base Tour", "description":"Guided tour of the mega-base: nether hub, auto-sorting, villager halls.", "time":"18:00", "location":"Server • Spawn → Mega-Base", "type":"discord" },
-  { "id":102, "date":"2025-08-07", "title":"Arena Fight", "description":"PvP bracket — diamond gear, no totems. Best-of-3 duels.", "time":"20:00", "location":"PvP Arena", "type":"pvp" },
-  { "id":103, "date":"2025-08-12", "title":"Build Competition", "description":"Theme: Medieval Gatehouse. 90-minute build. Judged on creativity & functionality.", "time":"19:00–20:30", "location":"Creative Plot World", "type":"build" },
-  { "id":104, "date":"2025-08-12", "title":"Community Briefing", "description":"Weekly announcements and Q&A on Discord.", "time":"18:00", "location":"Discord Voice", "type":"discord" },
-  { "id":105, "date":"2025-08-12", "title":"Ender Dragon Raid", "description":"End reset! Bring beds, slow falling, food. Post-fight: end city shulker run.", "time":"21:00", "location":"End Portal Stronghold", "type":"pve" },
-  { "id":106, "date":"2025-08-18", "title":"Base Tour (New Players)", "description":"Onboarding run through farms, rules, and portals.", "time":"19:00", "location":"Spawn Plaza", "type":"pve" },
-  { "id":107, "date":"2025-09-15", "title":"Arena Fight — Finals", "description":"Top 8 finals, best-of-5. Prize pool: 32 diamonds.", "time":"20:00", "location":"PvP Arena", "type":"pvp" },
-  { "id":108, "date":"2025-09-22", "title":"Build Competition — Redstone", "description":"Theme: Compact Door. 60-minute challenge.", "time":"19:30–20:30", "location":"Creative Plot World", "type":"redstone" },
-  { "id":109, "date":"2025-10-01", "title":"Exploration — New Nether Biomes", "description":"Group trek through the warped/crimson forests and bastions.", "time":"18:30", "location":"Nether Hub", "type":"exploration" },
-  { "id":110, "date":"2025-10-10", "title":"Hybrid Hunt", "description":"Scavenger hunt with PvP zones — gather clues, fight rivals, win loot!", "time":"19:00–21:00", "location":"Overworld • Mixed Zones", "type":"mixed" },
-  { "id":111, "date":"2025-10-31", "title":"Halloween Spook-tacular", "description":"Haunted maze, mob arena, costume contest.", "time":"20:00", "location":"Spawn • Haunted Grounds", "type":"holiday" },
-  { "id":112, "date":"2025-11-20", "title":"Server Update Night", "description":"Updating to Minecraft 1.21 — downtime + patch notes.", "time":"17:00", "location":"Discord & Server", "type":"update" },
-  { "id":113, "date":"2025-12-01", "title":"Server Anniversary Celebration", "description":"Year-in-review, fireworks show, trivia, and prizes.", "time":"19:00", "location":"Spawn Plaza", "type":"anniversary" },
-  { "id":114, "date":"2025-12-10", "title":"Leaderboard Ceremony", "description":"Monthly recognition of top miners, builders, and adventurers.", "time":"18:00", "location":"Spawn Stage", "type":"leaderboard" },
-  { "id":115, "date":"2025-12-15", "title":"Holiday Giveaway", "description":"Raffle with rare items, heads, and special cosmetics.", "time":"20:00", "location":"Discord + Server", "type":"giveaway" },
-  { "id":116, "date":"2025-12-20", "title":"Special Mega-Raid", "description":"50-player Wither + Warden showdown. Survival-mode only!", "time":"19:00–22:00", "location":"Bedrock Arena", "type":"special" },
-  { "id":117, "date":"2025-12-31", "title":"Charity Stream — Wither Marathon", "description":"Raising funds with boss runs and mini-games!", "time":"18:00–22:00", "location":"Server + Twitch", "type":"custom", "color":"#FF7F50" },
-  { "id":118, "date":"2025-11-15", "title":"TEST", "description":"Raising funds with boss runs and mini-games!", "time":"18:00–22:00", "location":"Nowhere", "type":"custom", "color":"#FF7F50" }
+  {
+    "id": 201,
+    "date": "2026-06-03",
+    "title": "Base Tour",
+    "description": "Guided tour of the mega-base: nether hub, auto-sorting, villager halls.",
+    "time": "18:00",
+    "location": "Server • Spawn → Mega-Base",
+    "type": "discord"
+  },
+  {
+    "id": 202,
+    "date": "2026-06-07",
+    "title": "Arena Fight",
+    "description": "PvP bracket — diamond gear, no totems. Best-of-3 duels.",
+    "time": "20:00",
+    "location": "PvP Arena",
+    "type": "pvp"
+  },
+  {
+    "id": 203,
+    "date": "2026-06-12",
+    "title": "Build Competition",
+    "description": "Theme: Medieval Gatehouse. 90-minute build. Judged on creativity & functionality.",
+    "time": "19:00–20:30",
+    "location": "Creative Plot World",
+    "type": "build"
+  },
+  {
+    "id": 204,
+    "date": "2026-06-12",
+    "title": "Community Briefing",
+    "description": "Weekly announcements and Q&A on Discord.",
+    "time": "18:00",
+    "location": "Discord Voice",
+    "type": "discord"
+  },
+  {
+    "id": 205,
+    "date": "2026-06-12",
+    "title": "Ender Dragon Raid",
+    "description": "End reset! Bring beds, slow falling, food. Post-fight: end city shulker run.",
+    "time": "21:00",
+    "location": "End Portal Stronghold",
+    "type": "pve"
+  },
+  {
+    "id": 206,
+    "date": "2026-06-18",
+    "title": "Base Tour — New Players",
+    "description": "Onboarding run through farms, rules, and portals.",
+    "time": "19:00",
+    "location": "Spawn Plaza",
+    "type": "pve"
+  },
+  {
+    "id": 207,
+    "date": "2026-07-05",
+    "title": "Community Mining Night",
+    "description": "Group resource run for diamonds, copper, redstone, and shared spawn projects.",
+    "time": "19:00–21:00",
+    "location": "Spawn Mine Entrance",
+    "type": "pve"
+  },
+  {
+    "id": 208,
+    "date": "2026-07-15",
+    "title": "Arena Fight — Finals",
+    "description": "Top 8 finals, best-of-5. Prize pool: 32 diamonds.",
+    "time": "20:00",
+    "location": "PvP Arena",
+    "type": "pvp"
+  },
+  {
+    "id": 209,
+    "date": "2026-07-22",
+    "title": "Build Competition — Redstone",
+    "description": "Theme: Compact Door. 60-minute challenge.",
+    "time": "19:30–20:30",
+    "location": "Creative Plot World",
+    "type": "redstone"
+  },
+  {
+    "id": 210,
+    "date": "2026-08-01",
+    "title": "Exploration — New Nether Biomes",
+    "description": "Group trek through warped forests, crimson forests, bastions, and hidden ruins.",
+    "time": "18:30",
+    "location": "Nether Hub",
+    "type": "exploration"
+  },
+  {
+    "id": 211,
+    "date": "2026-08-10",
+    "title": "Hybrid Hunt",
+    "description": "Scavenger hunt with PvP zones — gather clues, fight rivals, win loot.",
+    "time": "19:00–21:00",
+    "location": "Overworld • Mixed Zones",
+    "type": "mixed"
+  },
+  {
+    "id": 212,
+    "date": "2026-08-23",
+    "title": "Spawn Project Day",
+    "description": "Community work session to improve roads, lighting, decorations, and public utilities.",
+    "time": "17:00–20:00",
+    "location": "Spawn Plaza",
+    "type": "build"
+  },
+  {
+    "id": 213,
+    "date": "2026-09-04",
+    "title": "Monolith Gateway Opening",
+    "description": "Opening ceremony for the new teleportation monolith network.",
+    "time": "19:00",
+    "location": "Spawn • Central Monolith",
+    "type": "special"
+  },
+  {
+    "id": 214,
+    "date": "2026-09-12",
+    "title": "Leaderboard Ceremony",
+    "description": "Monthly recognition of top miners, builders, fighters, and adventurers.",
+    "time": "18:00",
+    "location": "Spawn Stage",
+    "type": "leaderboard"
+  },
+  {
+    "id": 215,
+    "date": "2026-09-26",
+    "title": "Community Vault Rush",
+    "description": "Earn keys through mini-games, then return to spawn to open timed reward vaults.",
+    "time": "20:00",
+    "location": "Spawn • Vault Hall",
+    "type": "giveaway"
+  },
+  {
+    "id": 216,
+    "date": "2026-10-10",
+    "title": "Special Mega-Raid",
+    "description": "Large-scale Wither and Warden showdown. Survival-mode only.",
+    "time": "19:00–22:00",
+    "location": "Bedrock Arena",
+    "type": "special"
+  },
+  {
+    "id": 217,
+    "date": "2026-10-31",
+    "title": "Halloween Spook-tacular",
+    "description": "Haunted maze, mob arena, costume contest, and limited-time rewards.",
+    "time": "20:00",
+    "location": "Spawn • Haunted Grounds",
+    "type": "holiday"
+  },
+  {
+    "id": 218,
+    "date": "2026-11-14",
+    "title": "Create Engineering Showcase",
+    "description": "Players present Create contraptions, factories, trains, and mechanical builds.",
+    "time": "19:00",
+    "location": "Industrial Showcase Hall",
+    "type": "redstone"
+  },
+  {
+    "id": 219,
+    "date": "2026-12-01",
+    "title": "Server Anniversary Celebration",
+    "description": "Year-in-review, fireworks show, trivia, community awards, and prizes.",
+    "time": "19:00",
+    "location": "Spawn Plaza",
+    "type": "anniversary"
+  },
+  {
+    "id": 220,
+    "date": "2026-12-15",
+    "title": "Holiday Giveaway",
+    "description": "Raffle with rare items, heads, decorations, and special cosmetics.",
+    "time": "20:00",
+    "location": "Discord + Server",
+    "type": "giveaway"
+  },
+  {
+    "id": 221,
+    "date": "2026-12-31",
+    "title": "New Year Fireworks Festival",
+    "description": "Fireworks, music, mini-games, screenshots, and countdown at spawn.",
+    "time": "22:00–00:15",
+    "location": "Spawn Plaza",
+    "type": "custom",
+    "color": "#FF7F50"
+  }
 ]
