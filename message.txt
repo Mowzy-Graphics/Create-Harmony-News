@@ -1,31 +1,7 @@
-🔥 New Features
-- Added Ancient Relics Mod – Discover powerful artifacts hidden in dungeons!
-- Introduced Custom Biomes – Explore new lush forests and frozen wastelands.
-- Enabled Dynamic Seasons – Watch the world change as time passes.
+The wait is almost over.
 
-🛠 Fixes & Improvements
-- Optimized server performance to reduce lag spikes.
-- Fixed desync issues with player inventories in multiplayer.
-- Improved mob AI – Zombies are now smarter (and scarier).
+Create Harmony officially opens today at 14:00 CEST / 12:00 UTC.
+The server should already be visible in your multiplayer server list, so make sure everything is ready before launch.
 
-🔥 New Features
-- Added Ancient Relics Mod – Discover powerful artifacts hidden in dungeons!
-- Introduced Custom Biomes – Explore new lush forests and frozen wastelands.
-- Enabled Dynamic Seasons – Watch the world change as time passes.
-
-🛠 Fixes & Improvements
-- Optimized server performance to reduce lag spikes.
-- Fixed desync issues with player inventories in multiplayer.
-- Improved mob AI – Zombies are now smarter (and scarier).
-
-🔥 New Features
-- Added Ancient Relics Mod – Discover powerful artifacts hidden in dungeons!
-- Introduced Custom Biomes – Explore new lush forests and frozen wastelands.
-- Enabled Dynamic Seasons – Watch the world change as time passes.
-
-🛠 Fixes & Improvements
-- Optimized server performance to reduce lag spikes.
-- Fixed desync issues with player inventories in multiplayer.
-- Improved mob AI – Zombies are now smarter (and scarier).
-
-... 
+Applications are open for anyone who would like to join the community.
+Join the Discord and fill out the application form here:
