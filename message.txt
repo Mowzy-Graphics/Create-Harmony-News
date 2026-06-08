@@ -1,9 +1,7 @@
-The wait is almost over.
+With the help of some amazing people that donated some amazing money, we now have an even more amazing server !!!
 
-Create Harmony officially opens today at 14:00 CEST / 12:00 UTC.
-The server should already be visible in your multiplayer server list, so make sure everything is ready before launch.
+Your generosity allowed me to upgrade our server plan from a 12Gb server to a 24Gb server ! Meaning we won't have any more stuttering ! 
 
-Applications are open for anyone who would like to join the community.
-Join the Discord and fill out the application form here:
+That change also means we had to change the server IP, so please modify the existing listing in your server list to this IP : **66.59.210.248:25565**
 
-https://discord.gg/ZhSBVXWdqr
+*(should already be modified on newer version of the modpack)*
