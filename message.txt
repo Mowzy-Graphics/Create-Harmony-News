@@ -1,22 +1,23 @@
 Just a quick reminder that the server hosting payment is coming up soon.
 
 The server currently costs **$72/month**, which is honestly a lot for me to cover alone. If you enjoy playing on the server and would like to help support it, please consider grabbing one of the **global perks** from our online store:
-https://akatashi-studios.tebex.io/
 
-Any purchase helps a lot to keep the server running :pray:
+**https://akatashi-studios.tebex.io/**
 
-## Current global perks
+Any purchase helps a lot to keep the server running !
 
-### Balloons
+__**Current global perks :**__
 
-Balloons are basically global loot boxes.
+**Balloons**
 
-When someone buys a Balloon Drop, **every player gets 1 balloon** with a rarity ranging from **Uncommon** to **Legendary**.
+> Balloons are basically global loot boxes.
+> 
+> When someone buys a Balloon Drop, **every player gets 1 balloon** with a rarity ranging from **Uncommon** to **Legendary**.
+> 
+> Players who are offline at the time of purchase can still claim their balloon by logging in within **3 days**.
 
-Players who are offline at the time of purchase can still claim their balloon by logging in within **3 days**.
+**Blessings**
 
-### Blessings
-
-Blessings are positive effects selected from a pool of helpful buffs.
-
-When someone buys a Blessing, the effect is applied to **every player online** for the duration of the blessing.
+> Blessings are positive effects selected from a pool of helpful buffs.
+> 
+> When someone buys a Blessing, the effect is applied to **every player online** for the duration of the blessing.
