@@ -11,13 +11,13 @@ __**Current global perks :**__
 **Balloons**
 
 > Balloons are basically global loot boxes.
-> 
-> When someone buys a Balloon Drop, **every player gets 1 balloon** with a rarity ranging from **Uncommon** to **Legendary**.
-> 
-> Players who are offline at the time of purchase can still claim their balloon by logging in within **3 days**.
+ 
+ When someone buys a Balloon Drop, **every player gets 1 balloon** with a rarity ranging from **Uncommon** to **Legendary**.
+ 
+ Players who are offline at the time of purchase can still claim their balloon by logging in within **3 days**.
 
 **Blessings**
 
 > Blessings are positive effects selected from a pool of helpful buffs.
-> 
-> When someone buys a Blessing, the effect is applied to **every player online** for the duration of the blessing.
+ 
+ When someone buys a Blessing, the effect is applied to **every player online** for the duration of the blessing.
