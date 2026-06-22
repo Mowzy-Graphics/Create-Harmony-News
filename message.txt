@@ -1,7 +1,22 @@
-With the help of some amazing people that donated some amazing money, we now have an even more amazing server !!!
+Just a quick reminder that the server hosting payment is coming up soon.
 
-Your generosity allowed me to upgrade our server plan from a 12Gb server to a 24Gb server ! Meaning we won't have any more stuttering ! 
+The server currently costs **$72/month**, which is honestly a lot for me to cover alone. If you enjoy playing on the server and would like to help support it, please consider grabbing one of the **global perks** from our online store:
+https://akatashi-studios.tebex.io/
 
-That change also means we had to change the server IP, so please modify the existing listing in your server list to this IP : **66.59.210.248:25565**
+Any purchase helps a lot to keep the server running :pray:
 
-*(should already be modified on newer version of the modpack)*
+## Current global perks
+
+### Balloons
+
+Balloons are basically global loot boxes.
+
+When someone buys a Balloon Drop, **every player gets 1 balloon** with a rarity ranging from **Uncommon** to **Legendary**.
+
+Players who are offline at the time of purchase can still claim their balloon by logging in within **3 days**.
+
+### Blessings
+
+Blessings are positive effects selected from a pool of helpful buffs.
+
+When someone buys a Blessing, the effect is applied to **every player online** for the duration of the blessing.
