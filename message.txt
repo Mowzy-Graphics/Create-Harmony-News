@@ -1,23 +1,7 @@
-Just a quick reminder that the server hosting payment is coming up soon.
+We just migrated to a brand new machine faster, fresher, and ready to handle everything you throw at it!
 
-The server currently costs **$72/month**, which is honestly a lot for me to cover alone. If you enjoy playing on the server and would like to help support it, please consider grabbing one of the **global perks** from our online store:
+That means the server IP has changed. Make sure to update it in your Minecraft client:
 
-**https://akatashi-studios.tebex.io/**
+87.76.193.72:25565
 
-Any purchase helps a lot and directly helps keep the server running!
-
-****Current global perks:****
-
-## Balloons
-
-> Balloons are basically global loot boxes.
->
-> When someone buys a Balloon Drop, **every player gets 1 balloon**, with a rarity ranging from **Uncommon** to **Legendary**.
->
-> Players who are offline at the time of purchase can still claim their balloon by logging in within **3 days**.
-
-## Blessings
-
-> Blessings are positive effects selected from a pool of helpful buffs.
->
-> When someone buys a Blessing, the effect is applied to **every player online** for the duration of the blessing.
+We're excited to hear how the new machine feels please report any issues, bugs, or weird behavior so we can squash them fast!
